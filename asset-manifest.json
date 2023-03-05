@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-loading-skeleton/static/css/main.4968a2cf.css",
+    "main.js": "/react-loading-skeleton/static/js/main.c6fc74d7.js",
+    "index.html": "/react-loading-skeleton/index.html",
+    "main.4968a2cf.css.map": "/react-loading-skeleton/static/css/main.4968a2cf.css.map",
+    "main.c6fc74d7.js.map": "/react-loading-skeleton/static/js/main.c6fc74d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4968a2cf.css",
+    "static/js/main.c6fc74d7.js"
+  ]
+}
