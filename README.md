@@ -13,4 +13,4 @@
 
 # Hosted url:
 
-- https://nawazdanish.github.io/react-loading-skeleton
+- https://nawazdanish1996.github.io/react-loading-skeleton/
